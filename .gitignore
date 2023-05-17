@@ -2,3 +2,4 @@
 *.log
 *.dwl
 *.dwl2
+hidden/*
